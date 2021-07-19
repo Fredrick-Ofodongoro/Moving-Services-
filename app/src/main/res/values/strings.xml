@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Moving Services</string>
+    <string name="login_button">LogIn</string>
+    <string name="button_register">Register</string>
+    <string name="enter_your_email_address">Enter your Email Address</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="register_button">Register</string>
+    <string name="login_button1">login</string>
+    <string name="register_button1">register</string>
+
+    <string name="btn_logout">Logout</string>
+    <string name="enter_password">Enter your password</string>
 </resources>
